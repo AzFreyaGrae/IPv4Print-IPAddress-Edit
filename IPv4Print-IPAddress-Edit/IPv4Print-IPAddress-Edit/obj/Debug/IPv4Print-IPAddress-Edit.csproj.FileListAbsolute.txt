@@ -1,0 +1,10 @@
+C:\Users\Ac\Desktop\打印机端口更改\IPv4Print-IPAddress-Edit\obj\Debug\IPv4Print-IPAddress-Edit.csprojAssemblyReference.cache
+C:\Users\Ac\Desktop\打印机端口更改\IPv4Print-IPAddress-Edit\obj\Debug\IPv4Print_IPAddress_Edit.Form1.resources
+C:\Users\Ac\Desktop\打印机端口更改\IPv4Print-IPAddress-Edit\obj\Debug\IPv4Print_IPAddress_Edit.Properties.Resources.resources
+C:\Users\Ac\Desktop\打印机端口更改\IPv4Print-IPAddress-Edit\obj\Debug\IPv4Print-IPAddress-Edit.csproj.GenerateResource.cache
+C:\Users\Ac\Desktop\打印机端口更改\IPv4Print-IPAddress-Edit\obj\Debug\IPv4Print-IPAddress-Edit.csproj.CoreCompileInputs.cache
+C:\Users\Ac\Desktop\打印机端口更改\IPv4Print-IPAddress-Edit\bin\Debug\IPv4Print-IPAddress-Edit.exe.config
+C:\Users\Ac\Desktop\打印机端口更改\IPv4Print-IPAddress-Edit\bin\Debug\IPv4Print-IPAddress-Edit.exe
+C:\Users\Ac\Desktop\打印机端口更改\IPv4Print-IPAddress-Edit\bin\Debug\IPv4Print-IPAddress-Edit.pdb
+C:\Users\Ac\Desktop\打印机端口更改\IPv4Print-IPAddress-Edit\obj\Debug\IPv4Print-IPAddress-Edit.exe
+C:\Users\Ac\Desktop\打印机端口更改\IPv4Print-IPAddress-Edit\obj\Debug\IPv4Print-IPAddress-Edit.pdb
